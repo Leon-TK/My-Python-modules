@@ -1,0 +1,5 @@
+ASK_PATH_MSG = "Enter path"
+ASK_YES_MSG = "Yes or no?"
+ASK_YES_NOTE = " [Y]yes/[n]no "
+ASK_LIST_MSG = "Enter list"
+ASK_INT_MSG = "Enter integer"

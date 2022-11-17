@@ -1,0 +1,18 @@
+TODO:  Create normal implementation of cmd args processing, line - 5, file - E:\Source\My Python modules\todoExtractor\__main__.py
+TODO:  extraction funcs cannot find TODOs in multiline comments # , line - 8, file - E:\Source\My Python modules\todoExtractor\test\todoExtractor.py
+TODO:  test2 , line - 8, file - E:\Source\My Python modules\todoExtractor\test\todoExtractor.py
+TODO:  sdasd, line - 8, file - E:\Source\My Python modules\todoExtractor\test\todoExtractor.py
+TODO:  extractor saves whole comment line. do separate all todos in that line. remark - there can be situation like this "# todocontent TODO", line - 9, file - E:\Source\My Python modules\todoExtractor\test\todoExtractor.py
+TODO:  can be situations when in output file could be duplicate todo's. ProcessDstFileExisting preventes this, but things tend to change, line - 10, file - E:\Source\My Python modules\todoExtractor\test\todoExtractor.py
+TODO:  delete file if there no TODOs, line - 11, file - E:\Source\My Python modules\todoExtractor\test\todoExtractor.py
+TODO:  Throw exception?, line - 28, file - E:\Source\My Python modules\todoExtractor\test\todoExtractor.py
+TODO:  what if multiline case?, line - 46, file - E:\Source\My Python modules\todoExtractor\test\todoExtractor.py
+TODO:  flush for safety?, line - 50, file - E:\Source\My Python modules\todoExtractor\test\todoExtractor.py
+TODO:  this module for finding possible errors in TODOs(?), line - 1, file - E:\Source\My Python modules\todoExtractor\_src\errorChecker.py
+TODO:  extraction funcs cannot find TODOs in multiline comments, line - 13, file - E:\Source\My Python modules\todoExtractor\_src\extractor.py
+TODO:  can be situations when in output file could be duplicate todos. ProcessDstFileExisting preventes this, but things tend to change, line - 14, file - E:\Source\My Python modules\todoExtractor\_src\extractor.py
+TODO:  delete dst file if there no TODOs, line - 15, file - E:\Source\My Python modules\todoExtractor\_src\extractor.py
+TODO:  add ability to save output file in source folder with creation data note, line - 16, file - E:\Source\My Python modules\todoExtractor\_src\extractor.py
+TODO:  Throw exception?, line - 19, file - E:\Source\My Python modules\todoExtractor\_src\extractor.py
+TODO:  what if multiline case?, line - 47, file - E:\Source\My Python modules\todoExtractor\_src\extractor.py
+TODO:  processing on file will rewrite output, line - 68, file - E:\Source\My Python modules\todoExtractor\_src\extractor.py

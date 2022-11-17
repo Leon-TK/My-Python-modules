@@ -1,0 +1,1 @@
+Module that helps to check paths and file names(directory too) for Windows before using them

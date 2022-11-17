@@ -1,0 +1,8 @@
+CPP_EXTS = ["cpp", "h", "hpp", "c"]
+PY_EXTS = ["py"]
+SHARP_EXTS = ["cs"]
+SHADERS_EXTS = ["glsl", "hlsl"]
+PLAINTEXT_EXTS = ["txt", "md"]
+WEB_EXTS = ["html", "css", "js", "ts"]
+JS_EXTS = ["js"]
+TS_EXTS = ["ts"]

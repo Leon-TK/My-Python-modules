@@ -1,0 +1,1 @@
+DEFAULT_OUTPUT_NAME = "todos.txt"

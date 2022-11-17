@@ -1,0 +1,5 @@
+from ._src.paste import pasteCopyAndLicenseInDirectory as pasteAllInDirectory
+from ._src.replace import replaceLicenseInDirectory as replaceLicenseInDirectory
+from ._src.replace import replaceCopyrightInDirectory as replaceCopyrightInDirectory
+from ._src.delete import deleteCopyrightAndLicenceInDirectory as deleteAllInDirectory
+from ._src.executeMode import beginInteractiveMode, beginCmdLineMode
